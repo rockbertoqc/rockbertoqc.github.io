@@ -1,6 +1,6 @@
 Prueba de enlace
 
-´´´python
+```python
 def funcion():
   pass
-´´´
+```
