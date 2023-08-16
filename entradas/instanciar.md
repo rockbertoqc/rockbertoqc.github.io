@@ -15,7 +15,7 @@ class Autos:
 Ahora supongamos que queremos enviar un mensaje que diga "Mi auto es un Suzuki Ignis año 2023". Para ello, primero tendríamos que definir nuestra función (método) "mensaje" dentro de la clase Auto, es decir, tabulada a la altura del def anterior:
 
 ```python
-    def saludar(self):
+    def mensaje(self):
         print(f'Mi auto es un {self.marca} {self.modelo} año {self.year}')
 ```
 
