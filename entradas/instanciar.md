@@ -34,6 +34,6 @@ Para imprimir el mensaje, llamamos a nuestro método "mensaje":
 auto1.mensaje()
 ```
 
-Si estás iniciando en la programación orientada a objetos en python, seguramente tienes algunas dudas sobre qué significan "init" y "self". No te preocupes. En otra entrada, ahondaremos en ello. Por ahora, te comento que "self" es un parámetro que se usa para referirse al objeto actual (en nuestro ejemplo, el objeto es la instancia "auto1") y que "init" es un método especial llamado constructor que se usa para inicializar los atributos de una clase. 
+Si estás iniciando en la programación orientada a objetos en python, seguramente tienes algunas dudas sobre qué significan "init" y "self". No te preocupes. En otra entrada, ahondaremos en ello. Por ahora, te comento que "self" es un parámetro que se usa para referirse a la clase y que esas variables puedan ser heredadas a otras funciones y que "init" es un método especial llamado constructor que se usa para inicializar los atributos de una clase. 
 
 ¡Ahora puedes probar y divertirte! 
