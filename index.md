@@ -1,8 +1,5 @@
-Desarrollador, desarrolladora: 
+## <span style="color:aquamarine">Pequeño glosario de Python:</span>
 
-Bienvenido a mi página. Espero que te sea de utilidad. 
-
-Pequeño glosario de Python:
 
 [¿Qué significa instanciar en Python?](entradas/instanciar.md)
 
