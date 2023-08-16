@@ -30,7 +30,7 @@ Nuestra instancia "auto1" está basada en la clase Autos y tiene sus propios val
 
 Para imprimir el mensaje, llamamos a nuestro método "mensaje":
 
-```python```
+```python
 auto1.mensaje()
 ```
 
