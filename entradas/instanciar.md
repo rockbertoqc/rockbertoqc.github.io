@@ -1,4 +1,4 @@
-Instanciar en Python significa crear una instancia de una clase, es decir, crear un objeto con base en dicha clase para definir qué atributos y métodos deben tener. 
+Instanciar en Python significa crear una instancia de una clase, es decir, crear un objeto con base en dicha clase para definir qué atributos y métodos debe tener. 
 
 En palabras más sencillas, una clase es como una plantilla, y cuando la instanciamos, lo que estamos haciendo es un objeto que se ajusta a nuestra plantilla.
 
