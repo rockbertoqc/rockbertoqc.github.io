@@ -1,4 +1,6 @@
 title: Bob's World
-theme: jekyll-theme-architect
+theme: jekyll-theme-cayman
 show_downloads: False
 description: El mundo de Bob The DevOps
+github: 
+  is_project_page: False 
