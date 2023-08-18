@@ -1,4 +1,3 @@
-## <span style="color:#89CFF0">Pequeño glosario de Python:</span>
 
 
 [¿Qué significa instanciar en Python?](entradas/instanciar.md)
