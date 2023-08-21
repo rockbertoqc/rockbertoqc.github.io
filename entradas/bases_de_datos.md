@@ -1,4 +1,4 @@
-¿Cuál es la diferencia entre las bases de datos SQL y las NoSQL?
+## ¿Cuál es la diferencia entre las bases de datos SQL y las NoSQL?
 
 Constantemente escuchamos los términos "base de datos SQL" y "base de datos NoSQL", pero, ¿sabes cuál es su principal diferencia?
 
