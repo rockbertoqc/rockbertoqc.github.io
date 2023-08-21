@@ -71,8 +71,11 @@ En cambio, si quisiéramos hacer esta base de datos en NoSQL (en este ejemplo us
 La elección de una base de datos depende de las necesidades que tengas para su uso. En este caso, una base de datos NoSQL podría resultarte útil en algunos aspectos:
 
 - Es flexible. En una base de datos NoSQL, no estás limitado por una estructura de tabla rígida. Puedes almacenar objetos JSON con estructuras flexibles. Esto podría ser útil si en el futuro deseas agregar campos adicionales específicos de ciertos modelos de computadora sin tener que alterar la estructura de la base de datos.
-- Datos anidados. En una base de datos NoSQL, puedes almacenar datos anidados dentro de un mismo documento. Esto es útil si quieres agrupar información relacionada, como detalles sobre la marca, especificaciones técnicas, u otros en un mismo documento, a diferencia de SQL, en donde requerirías hacer otra tabla estructurada. 
-- Escalabilidad horizontal. Si tienes un alto volumen de datos o un tráfico muy elevado en tu app, lo mejor es una base de datos NoSQL, pues está diseñada para agregar clústeres distribuidos de hardware para el manejo de cargas crecientes en lugar de escalar usando servidores caros. 
+  
+- Datos anidados. En una base de datos NoSQL, puedes almacenar datos anidados dentro de un mismo documento. Esto es útil si quieres agrupar información relacionada, como detalles sobre la marca, especificaciones técnicas, u otros en un mismo documento, a diferencia de SQL, en donde requerirías hacer otra tabla estructurada.
+  
+- Escalabilidad horizontal. Si tienes un alto volumen de datos o un tráfico muy elevado en tu app, lo mejor es una base de datos NoSQL, pues está diseñada para agregar clústeres distribuidos de hardware para el manejo de cargas crecientes en lugar de escalar usando servidores caros.
+  
 - Es más fácil hacer consultas complejas y rápidas, debido a que su indexación y búsqueda está optimizada para búsquedas flexibles.
 
 Si quieres ahondar más en modelos de bases de datos no relacionales, te recomiendo [dar clic en este enlace](https://aws.amazon.com/es/nosql/). 
