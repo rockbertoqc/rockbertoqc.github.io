@@ -32,7 +32,7 @@ VALUES
 
 Con este código, construiríamos una tabla así:
 
-![Base de datos SQL](https://imgur.com/a/Cve0vTn)
+![Base de datos SQL](https://i.ibb.co/1fxDMMv/base-sql.png)
 
 En cambio, si quisiéramos hacer esta base de datos en NoSQL (en este ejemplo usaremos MongoDB), el código sería estructurado de esta forma:
 
